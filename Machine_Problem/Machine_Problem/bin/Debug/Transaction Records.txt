@@ -1,0 +1,12 @@
+Date of Purchase: 12/23/12
+Product Name: borger	Quantity: 90
+Price: 13500
+
+Date of Purchase: 12/23/54
+Product Name: fries	Quantity: 100
+Price: 1500
+
+Date of Purchase: 12/23
+Product Name: polka water	Quantity: 12
+Price: 240
+

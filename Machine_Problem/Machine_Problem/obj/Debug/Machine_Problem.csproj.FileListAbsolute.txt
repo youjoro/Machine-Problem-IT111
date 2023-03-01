@@ -1,0 +1,148 @@
+c:\users\vladg\documents\visual studio 2013\Projects\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe.config
+c:\users\vladg\documents\visual studio 2013\Projects\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csprojResolveAssemblyReference.cache
+c:\users\vladg\documents\visual studio 2013\Projects\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Form1.resources
+c:\users\vladg\documents\visual studio 2013\Projects\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Properties.Resources.resources
+c:\users\vladg\documents\visual studio 2013\Projects\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csproj.GenerateResource.Cache
+c:\users\vladg\documents\visual studio 2013\Projects\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe
+c:\users\vladg\documents\visual studio 2013\Projects\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.pdb
+c:\users\vladg\documents\visual studio 2013\Projects\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.exe
+c:\users\vladg\documents\visual studio 2013\Projects\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.pdb
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe.config
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.pdb
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csprojAssemblyReference.cache
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Login.resources
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Main_Menu.resources
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Properties.Resources.resources
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Show_Items.resources
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csproj.GenerateResource.cache
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csproj.CoreCompileInputs.cache
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.exe
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.pdb
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Manage_Items.resources
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Insert_Products.resources
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Remove_Products.resources
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Record_Sale.resources
+C:\Users\jccar\Downloads\Compressed\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Products_Sold.resources
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe.config
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.pdb
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csprojAssemblyReference.cache
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Manage_Items.resources
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Login.resources
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Main_Menu.resources
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Insert_Products.resources
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Products_Sold.resources
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Properties.Resources.resources
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Record_Sale.resources
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Remove_Products.resources
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Show_Items.resources
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csproj.GenerateResource.cache
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.exe
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.pdb
+C:\Users\Gabriel Garcia\Downloads\Machine_Problem_2_Mk3\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Total_Sales.resources
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe.config
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.exe
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.pdb
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.pdb
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csprojResolveAssemblyReference.cache
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Manage_Items.resources
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Login.resources
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Main_Menu.resources
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Insert_Products.resources
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Products_Sold.resources
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Properties.Resources.resources
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Record_Sale.resources
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Remove_Products.resources
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Show_Items.resources
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Total_Sales.resources
+C:\Users\vladg\Desktop\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csproj.GenerateResource.Cache
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe.config
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.exe
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.pdb
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.pdb
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csprojResolveAssemblyReference.cache
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Manage_Items.resources
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Login.resources
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Main_Menu.resources
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Insert_Products.resources
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Products_Sold.resources
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Properties.Resources.resources
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Record_Sale.resources
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Remove_Products.resources
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Show_Items.resources
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Total_Sales.resources
+C:\Users\vladg\Desktop\schol\IT111-Lab\Machine_Problem_2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csproj.GenerateResource.Cache
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe.config
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.pdb
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csprojAssemblyReference.cache
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Manage_Items.resources
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Login.resources
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Main_Menu.resources
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Insert_Products.resources
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Products_Sold.resources
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Properties.Resources.resources
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Record_Sale.resources
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Remove_Products.resources
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Show_Items.resources
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Total_Sales.resources
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csproj.GenerateResource.cache
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csproj.CoreCompileInputs.cache
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.exe
+C:\Users\jccar\Downloads\Compressed\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.pdb
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe.config
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.exe
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.pdb
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.pdb
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csprojResolveAssemblyReference.cache
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Manage_Items.resources
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Login.resources
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Main_Menu.resources
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Insert_Products.resources
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Products_Sold.resources
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Properties.Resources.resources
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Record_Sale.resources
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Remove_Products.resources
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Show_Items.resources
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Total_Sales.resources
+C:\Users\vladg\Desktop\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csproj.GenerateResource.Cache
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe.config
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.exe
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.pdb
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.pdb
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csprojResolveAssemblyReference.cache
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Manage_Items.resources
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Login.resources
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Main_Menu.resources
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Insert_Products.resources
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Products_Sold.resources
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Properties.Resources.resources
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Record_Sale.resources
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Remove_Products.resources
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Show_Items.resources
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Total_Sales.resources
+C:\Users\vladg\Desktop\schol\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csproj.GenerateResource.Cache
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe.config
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.exe
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\bin\Debug\Machine_Problem.pdb
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csproj.AssemblyReference.cache
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Manage_Items.resources
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Login.resources
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Main_Menu.resources
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Insert_Products.resources
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Products_Sold.resources
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Properties.Resources.resources
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Record_Sale.resources
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Remove_Products.resources
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Show_Items.resources
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.Total_Sales.resources
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csproj.GenerateResource.cache
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.csproj.CoreCompileInputs.cache
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.exe
+D:\ony stuff\schol\2ND year\1st term\IT111-Lab\Group_6_Bacarro_Carlos_Garcia_Sales\Machine_Problem_FixedV2\Machine_Problem\Machine_Problem\obj\Debug\Machine_Problem.pdb
